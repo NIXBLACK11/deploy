@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/deploy/static/css/main.6e0a950d.css",
+    "main.js": "/deploy/static/js/main.ce796383.js",
+    "static/js/787.fb771931.chunk.js": "/deploy/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/deploy/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/deploy/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/background.jpg": "/deploy/static/media/background.c7e80690c3aec19106b8.jpg",
+    "static/media/project-img2.jpg": "/deploy/static/media/project-img2.4e471d3b7efc9c96d940.jpg",
+    "static/media/project-img1.jpg": "/deploy/static/media/project-img1.f57b953ad297bf72815d.jpg",
+    "static/media/project-img3.jpg": "/deploy/static/media/project-img3.6037c76509faecce17a6.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/deploy/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/deploy/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/deploy/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/deploy/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/c.png": "/deploy/static/media/c.67ad92bf452ce13becd1.png",
+    "static/media/react.png": "/deploy/static/media/react.c47c321a0b6c7128a92c.png",
+    "static/media/java.png": "/deploy/static/media/java.a1c01399d2a0b3d10fdd.png",
+    "static/media/cloud.png": "/deploy/static/media/cloud.0642d2518ce32a278640.png",
+    "static/media/python.png": "/deploy/static/media/python.4b0925bc0fb0b6226738.png",
+    "static/media/revicons.eot": "/deploy/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/deploy/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/logo.png": "/deploy/static/media/logo.de1c7aea7119af6bb5d6.png",
+    "static/media/mysql.png": "/deploy/static/media/mysql.acde49ddd768acdf1a19.png",
+    "static/media/revicons.woff": "/deploy/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon2.svg": "/deploy/static/media/nav-icon2.84962b123d677e360872c7019bb60bfa.svg",
+    "static/media/logo.svg": "/deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/deploy/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/deploy/static/media/nav-icon4.1eab0f978ecdd09141823556abc86c8d.svg",
+    "index.html": "/deploy/index.html",
+    "static/media/nav-icon1.svg": "/deploy/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/deploy/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/deploy/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.6e0a950d.css.map": "/deploy/static/css/main.6e0a950d.css.map",
+    "main.ce796383.js.map": "/deploy/static/js/main.ce796383.js.map",
+    "787.fb771931.chunk.js.map": "/deploy/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0a950d.css",
+    "static/js/main.ce796383.js"
+  ]
+}
